@@ -46,14 +46,4 @@ The dashboard is designed to provide actionable insights into healthcare costs a
 4. Explore the dashboard using filters and visualizations.
 5. Update the dataset as needed to analyze new data.
 
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contact
-For questions or feedback, contact: **[Your Name / Email]**
-
 
