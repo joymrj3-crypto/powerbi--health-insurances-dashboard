@@ -39,11 +39,6 @@ The dashboard is designed to provide actionable insights into healthcare costs a
 
 ---
 
-## How to Use
-1. Download or clone this repository.
-2. Open `dashboard.pbix` in Power BI Desktop.
-3. Import the `insurance_data.csv` dataset if not already included.
-4. Explore the dashboard using filters and visualizations.
-5. Update the dataset as needed to analyze new data.
+
 
 
